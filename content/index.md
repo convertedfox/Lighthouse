@@ -1,7 +1,8 @@
 ---
 title: Herzlich willkommen!
 ---
-![[cropped_Leuchtturm.png#center|300]]
+![[cropped_Leuchtturm.png]]
 ## Herzlich willkommen auf 💡 Lighthouse!
 
 Hier kommt eine kurze Vorstellung hin.
+Weitere Satz...
