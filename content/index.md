@@ -1,8 +1,5 @@
 ---
 title: Herzlich willkommen!
 ---
-
-This is a blank Quartz installation.
-
-TEST TEST
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+![[cropped_Leuchtturm.png#center|300]]
+## Herzlich willkommen auf 💡 Lighthouse!
